@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/Desktop/C++ WS/ClearVision/build",
+  "command": "C:\\MinGW\\bin\\c++.exe  @CMakeFiles/clearvision.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\clearvision.dir\\main.cpp.obj -c \"D:\\Desktop\\C++ WS\\ClearVision\\main.cpp\"",
+  "file": "D:/Desktop/C++ WS/ClearVision/main.cpp",
+  "output": "CMakeFiles/clearvision.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Desktop/C++ WS/ClearVision/build",
+  "command": "C:\\MinGW\\bin\\c++.exe  @CMakeFiles/clearvision.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\clearvision.dir\\SecretImage.cpp.obj -c \"D:\\Desktop\\C++ WS\\ClearVision\\SecretImage.cpp\"",
+  "file": "D:/Desktop/C++ WS/ClearVision/SecretImage.cpp",
+  "output": "CMakeFiles/clearvision.dir/SecretImage.cpp.obj"
+},
+{
+  "directory": "D:/Desktop/C++ WS/ClearVision/build",
+  "command": "C:\\MinGW\\bin\\c++.exe  @CMakeFiles/clearvision.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\clearvision.dir\\GrayscaleImage.cpp.obj -c \"D:\\Desktop\\C++ WS\\ClearVision\\GrayscaleImage.cpp\"",
+  "file": "D:/Desktop/C++ WS/ClearVision/GrayscaleImage.cpp",
+  "output": "CMakeFiles/clearvision.dir/GrayscaleImage.cpp.obj"
+},
+{
+  "directory": "D:/Desktop/C++ WS/ClearVision/build",
+  "command": "C:\\MinGW\\bin\\c++.exe  @CMakeFiles/clearvision.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\clearvision.dir\\Filter.cpp.obj -c \"D:\\Desktop\\C++ WS\\ClearVision\\Filter.cpp\"",
+  "file": "D:/Desktop/C++ WS/ClearVision/Filter.cpp",
+  "output": "CMakeFiles/clearvision.dir/Filter.cpp.obj"
+},
+{
+  "directory": "D:/Desktop/C++ WS/ClearVision/build",
+  "command": "C:\\MinGW\\bin\\c++.exe  @CMakeFiles/clearvision.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\clearvision.dir\\Crypto.cpp.obj -c \"D:\\Desktop\\C++ WS\\ClearVision\\Crypto.cpp\"",
+  "file": "D:/Desktop/C++ WS/ClearVision/Crypto.cpp",
+  "output": "CMakeFiles/clearvision.dir/Crypto.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+D:/Desktop/C++ WS/ClearVision/build/CMakeFiles/clearvision.dir
+D:/Desktop/C++ WS/ClearVision/build/CMakeFiles/edit_cache.dir
+D:/Desktop/C++ WS/ClearVision/build/CMakeFiles/rebuild_cache.dir
